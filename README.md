@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Learn about Python.
 <!--
 **20842205shi/20842205shi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
